@@ -1,3 +1,4 @@
 # Results directory
 finished_accuracy_results/
-
+.*
+!.gitignore
